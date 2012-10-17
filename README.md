@@ -5,7 +5,7 @@ microlib to get current unixtime
 	
 Installation
 ------------
-	`npm install unixtime`
+	npm install unixtime
 
 Example
 -------

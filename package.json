@@ -1,5 +1,6 @@
 {
   "name": "unixtime",
+  "description" : "microlib to get current unixtime",
   "version": "0.0.1",
   "author": "Frederico Silva <frederico.silva@gmail.com>",
   "main": "index.js",

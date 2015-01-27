@@ -1,7 +1,7 @@
 {
   "name": "unixtime",
   "description" : "microlib to get current unixtime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Frederico Silva <frederico.silva@gmail.com>",
   "main": "index.js",
   "repository": "git://github.com/fredericosilva/unixtime.git"

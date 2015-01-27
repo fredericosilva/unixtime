@@ -1,7 +1,11 @@
 "use strict";
 
-module.exports = function() {
-	return (Date.now() / 1000) >>> 0;
+module.exports = function unixtime(date) {
+	if (date === undefined) {
+		date = Date.now();
+	}
+
+	return (date / 1000) >>> 0;
 };
 
 if (require.main === module) {
